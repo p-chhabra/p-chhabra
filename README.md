@@ -3,7 +3,7 @@
 <h2>About Me</h2>
 <ul>
 <li>A passionate Web Developer💻</li>
-<li>Soon launching my portfolio website📃</li>
+<li>Currently working on my portfolio website📃</li>
 <li>Looking forward to contribute to open source</li>
 <li>Side Interests: Football⚽, Badminton🏸 and Gaming🎮</li>
 </ul>
