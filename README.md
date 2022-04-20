@@ -1,4 +1,4 @@
-<h3 align="center">I'm a student at National Institute of Technology , Hamirpur pursuing B.Tech in Computer Science and Engineering</h3>
+<h3 align="center">I'm a student at National Institute of Technology , Hamirpur pursuing B.Tech in Computer Science & Engineering</h3>
 
 <h2>About Me</h2>
 <ul>
