@@ -4,7 +4,7 @@
 <ul>
 <li>A passionate Web Developer💻</li>
 <li>Currently working on my portfolio website📃</li>
-<li>Looking forward to contribute to open source</li>
+<li>Looking forward to open source contribution</li>
 <li>Side Interests: Football⚽, Badminton🏸 and Gaming🎮</li>
 </ul>
 
