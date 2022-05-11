@@ -5,7 +5,7 @@
 <li>A passionate Web Developer💻</li>
 <li>Currently working on my portfolio website📃</li>
 <li>Looking forward to open source contribution</li>
-<li>Side Interests - Football⚽, Badminton🏸, Chess♟ and Gaming🎮</li>
+<li>Side Interests - Football⚽, Badminton🏸, Chess♟ and Video Games🎮</li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
