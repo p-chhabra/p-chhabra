@@ -1,5 +1,5 @@
 <h3 align="center">I'm a student at National Institute of Technology , Hamirpur>
-  <h4> <a target="_blank" href="https://prathmesh-chhabra-portfolio.netlify.app/"> Visit my Portfolio </a></h4>
+  <h3> <a target="_blank" href="https://prathmesh-chhabra-portfolio.netlify.app/"> Visit my Portfolio </a></h3>
 
 <h2>About Me</h2>
 <ul>
