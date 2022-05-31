@@ -25,3 +25,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=p-chhabra&show_icons=true&locale=en&layout=compact" alt="p-chhabra" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=p-chhabra&show_icons=true&locale=en" alt="p-chhabra" /></p>
+  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=p-chhabra&" alt="p-chhabra" /></p>
+
