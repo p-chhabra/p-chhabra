@@ -4,7 +4,7 @@
 <h2>About Me</h2>
 <ul>
 <li>A passionate Web Developer💻</li>
-<li>Currently learning NodeJS</li>
+<li>Currently learning Node.js</li>
 <li>Looking forward to open source contribution</li>
 <li>Side Interests - Football⚽, Badminton🏸, Chess♟ and Video Games🎮</li>
 </ul>
