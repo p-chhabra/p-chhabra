@@ -10,7 +10,7 @@
 </ul>
 <hr>
 
-<img align="right" src="https://github.com/p-chhabra/p-chhabra/blob/main/software-software-development%20.gif" alt="gif" height="180" width="240"/>
+<img align="right" src="https://github.com/p-chhabra/p-chhabra/blob/main/software-software-development%20.gif" alt="gif" height="300" width="400"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a target="_blank" href="https://linkedin.com/in/prathmesh-chhabra-51760719b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prathmesh-chhabra-51760719b" height="30" width="40" /></a>
