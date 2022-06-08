@@ -2,13 +2,13 @@
   <h3> <a target="_blank" href="https://prathmesh-chhabra-portfolio.netlify.app/"> Visit my Portfolio </a></h3>
 
 <h2>About Me</h2>
-<hr>
 <ul>
 <li>A passionate Web Developer💻</li>
 <li>Currently learning Node.js</li>
 <li>Looking forward to open source contribution</li>
 <li>Side Interests - Football⚽, Badminton🏸, Chess♟ and Video Games🎮</li>
 </ul>
+<hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
