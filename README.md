@@ -1,5 +1,5 @@
 <h3 align="center">I'm a student at National Institute of Technology , Hamirpur</h3>
-<img align="right" src="https://github.com/p-chhabra/p-chhabra/blob/main/software-software-development%20.gif" alt="gif" height="180" width="240" style="border-radius:100%"/>
+<img align="right" src="https://github.com/p-chhabra/p-chhabra/blob/main/software-software-development%20.gif" alt="gif" height="180" width="240" style="border-radius:100%;"/>
   <h3> <a target="_blank" href="https://prathmesh-chhabra-portfolio.netlify.app/"> Visit my Portfolio </a></h3>
   
 <h2>About Me</h2>
