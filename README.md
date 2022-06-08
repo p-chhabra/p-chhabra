@@ -2,6 +2,7 @@
   <h3> <a target="_blank" href="https://prathmesh-chhabra-portfolio.netlify.app/"> Visit my Portfolio </a></h3>
 
 <h2>About Me</h2>
+<lr>
 <ul>
 <li>A passionate Web Developer💻</li>
 <li>Currently learning Node.js</li>
