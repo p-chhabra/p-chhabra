@@ -1,4 +1,5 @@
 <h3 align="center">I'm a student at National Institute of Technology , Hamirpur</h3>
+<img align="right" src="https://github.com/p-chhabra/p-chhabra/blob/main/software-software-development%20.gif" alt="gif" height="300" width="100%"/>
 <h3> <a target="_blank" href="https://prathmesh-chhabra-portfolio.netlify.app/"> Visit my Portfolio </a></h3>
   
 <h2>About Me</h2>
@@ -10,7 +11,6 @@
 </ul>
 <hr>
 
-<img align="right" src="https://github.com/p-chhabra/p-chhabra/blob/main/software-software-development%20.gif" alt="gif" height="300" width="400"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a target="_blank" href="https://linkedin.com/in/prathmesh-chhabra-51760719b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prathmesh-chhabra-51760719b" height="30" width="40" /></a>
