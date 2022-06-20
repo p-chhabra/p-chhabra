@@ -25,7 +25,7 @@
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
 </p>
 <br> <br>
-<h2>GitHub Stats</h2>
+<h2>GitHub Statistics</h2>
 <img src="https://komarev.com/ghpvc/?username=p-chhabra&style=for-the-badge">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=p-chhabra&show_icons=true&locale=en&layout=compact" alt="p-chhabra" /></p>
 <br>
