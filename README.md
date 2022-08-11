@@ -5,7 +5,7 @@
 <ul>
 <li>A passionate Web Developer💻</li>
 <li>Looking forward to open source contribution</li>
-<li>Side Interests - Football⚽, Badminton🏸, Chess♟ and Video Games🎮</li>
+<li>Side Interests - Football⚽, Badminton🏸, Chess♟ and Video Games🎮 </li>
 </ul>
 <hr>
 
