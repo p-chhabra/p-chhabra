@@ -4,10 +4,10 @@
 <h2>About Me</h2>
 <ul>
 <li>A passionate Web Developer💻</li>
+<li>Executive Member at CSEC-NITH</li>
 <li>Looking forward to open source contribution</li>
 <li>Side Interests - Football⚽, Badminton🏸, Chess♟ and Video Games🎮 </li>
-<li>Executive Member at CSEC-NITH</li>
-</ul>
+</ul><li>Executive Member at CSEC-NITH</li>
 <hr>
 
 <img align="right" src="https://github.com/p-chhabra/p-chhabra/blob/main/software-software-development%20.gif" alt="gif" height="300" width="400"/>
