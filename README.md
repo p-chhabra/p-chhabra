@@ -6,7 +6,7 @@
 <li>A passionate Web Developer💻</li>
 <li>Executive Member at CSEC-NITH</li>
 <li>Looking forward to open source contributions</li>
-<li>Side Interests - Football⚽, Badminton🏸, Chess♟ and Video Games🎮 </li>
+<li>Side Interests- Football⚽, Badminton🏸, Chess♟ and Video Games🎮 </li>
 </ul>
 <hr>
 
