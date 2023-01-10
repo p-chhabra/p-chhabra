@@ -4,7 +4,7 @@
 <h2>About Me</h2>
 <ul>
 <li>A passionate Web Developer💻</li>
-<li>Executive Member at CSEC-NITH</li>
+<li>Coordinator at CSEC-NITH</li>
 <li>Looking forward to open source contributions</li>
 <li>Side Interests- Football⚽, Badminton🏸, Chess♟ and Video Games🎮 </li>
 </ul>
