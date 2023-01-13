@@ -29,6 +29,7 @@
 <h2>GitHub Statistics</h2>
 <img src="https://komarev.com/ghpvc/?username=p-chhabra&style=for-the-badge">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=p-chhabra&show_icons=true&locale=en&layout=compact" alt="p-chhabra" /></p>
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=p-chhabra&show_icons=true&locale=en" alt="p-chhabra" /></p>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=p-chhabra&" alt="p-chhabra" /></p>
