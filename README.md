@@ -11,8 +11,6 @@
 </ul>
 <hr>
 
-![gif](https://tenor.com/bPQ5y.gif)
-
 
 
 ## 🌐 Socials:
