@@ -11,7 +11,7 @@
 </ul>
 <hr>
 
-<img align="right" src="software-software-development .gif" alt="gif" height="300" width="400"/>
+<img align="right" src="https://github.com/p-chhabra/p-chhabra/blob/bf93a453707200c5e33dc7901fc1404d66620b24/software-software-development%20.gif" alt="gif" height="300" width="400"/>
 
 
 ## 🌐 Socials:
