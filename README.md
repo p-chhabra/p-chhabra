@@ -10,7 +10,7 @@
 <li>Side Interests - Football⚽, Badminton🏸, Chess♟ and Video Games🎮 </li>
 </ul>
  <img align="right" src="https://tenor.com/en-GB/view/software-software-development-gif-24712790" alt="gif" height="300" width="400"/>
-
+<hr>
 
 
 
