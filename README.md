@@ -3,17 +3,15 @@
 
 
 # 💫 About Me:
-<div>
 <ul>
 <li>A passionate Web Developer💻</li>
 <li>Coordinator at CSEC-NITH</li>
 <li>Looking forward to open source contributions</li>
 <li>Side Interests - Football⚽, Badminton🏸, Chess♟ and Video Games🎮 </li>
 </ul>
+ <img align="right" src="https://github.com/p-chhabra/p-chhabra/blob/bf93a453707200c5e33dc7901fc1404d66620b24/software-software-development%20.gif" alt="gif" height="300" width="400"/>
 <hr>
 
-<img align="right" src="https://github.com/p-chhabra/p-chhabra/blob/bf93a453707200c5e33dc7901fc1404d66620b24/software-software-development%20.gif" alt="gif" height="300" width="400"/>
- <div/>
 
 
 ## 🌐 Socials:
