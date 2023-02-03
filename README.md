@@ -9,8 +9,9 @@
 <li>Looking forward to open source contributions</li>
 <li>Side Interests - Football⚽, Badminton🏸, Chess♟ and Video Games🎮 </li>
 </ul>
- ![gif](https://tenor.com/en-GB/view/software-software-development-gif-24712790)
 <hr>
+
+![gif](https://tenor.com/en-GB/view/software-software-development-gif-24712790)
 
 
 
