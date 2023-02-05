@@ -9,7 +9,7 @@
 <li>Looking forward to open source contributions</li>
 <li>Side Interests - Football⚽, Badminton🏸, Chess♟ and Video Games🎮 </li>
 </ul>
-<div style = "float: right"><img src = "https://user-images.githubusercontent.com/92320908/216832936-c8919172-2d71-4c6e-a9a0-bb3f9bc066bb.gif" alt = "gif"></div>
+<div style = "float: right"><img src = "https://user-images.githubusercontent.com/92320908/216832936-c8919172-2d71-4c6e-a9a0-bb3f9bc066bb.gif" alt = "gif" style="width: 400, height 300: ></div>
 <hr>
 
 
