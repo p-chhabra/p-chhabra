@@ -3,15 +3,13 @@
 
 
 # 💫 About Me:
-<div>
 <ul>
 <li>A passionate Web Developer💻</li>
 <li>Coordinator at CSEC-NITH</li>
 <li>Looking forward to open source contributions</li>
 <li>Side Interests - Football⚽, Badminton🏸, Chess♟ and Video Games🎮 </li>
 </ul>
-</div>
-<div style = "float: left"><img src = "https://user-images.githubusercontent.com/92320908/216832936-c8919172-2d71-4c6e-a9a0-bb3f9bc066bb.gif" alt = "gif" width: "400" height: "300"></div>
+<img style="float: right" src = "https://user-images.githubusercontent.com/92320908/216832936-c8919172-2d71-4c6e-a9a0-bb3f9bc066bb.gif" alt = "gif" width: "400" height: "300">
 <hr>
 
 
@@ -33,5 +31,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=p-chhabra&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
