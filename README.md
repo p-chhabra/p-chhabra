@@ -5,7 +5,7 @@
 # 💫 About Me:
 
 <ul>
-<li>A passionate Web Developer💻</li>
+<li>SDE Intern @Zscaler💻</li>
 <li>Coordinator at CSEC-NITH</li>
 <li>Looking forward to open source contributions</li>
 <li>Side Interests - Football⚽, Badminton🏸, Chess♟ and Video Games🎮 </li>
