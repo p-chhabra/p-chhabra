@@ -5,9 +5,8 @@
 # 💫 About Me:
 
 <ul>
-<li>SDE Intern @Zscaler💻</li>
-<li>Coordinator at CSEC-NITH</li>
-<li>Looking forward to open source contributions</li>
+<li>SDE @Zscaler💻</li>
+<li>C++. C#</li>
 <li>Side Interests - Football⚽, Badminton🏸, Chess♟ and Video Games🎮 </li>
 </ul>
 <!-- <img style="float: left margin-left: 10px" src = "https://user-images.githubusercontent.com/92320908/216832936-c8919172-2d71-4c6e-a9a0-bb3f9bc066bb.gif" alt = "gif" width: "800" height: "300"> -->
